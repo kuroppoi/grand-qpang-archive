@@ -1,0 +1,5 @@
+# Removes the 30-second p2p timeout timer before the game switches to relay mode.
+
+>QPangBin.exe
+0028B15A:30->00
+0028B15B:75->00
