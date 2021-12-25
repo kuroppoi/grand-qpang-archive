@@ -1,0 +1,19 @@
+# Increases the particle limit by allocating more buffer space and increasing the threshold checks.
+# This specific patch increases it from 17000 (0x4268) to 524287 (0x7FFFF) bytes, but you can configure it however you'd like.
+
+>On3D.dll
+00089DAD:68->FF
+00089DAE:42->FF
+00089DAF:00->07
+
+000A0271:68->FF
+000A0272:42->FF
+000A0273:00->07
+
+000A042C:68->FF
+000A042D:42->FF
+000A042E:00->07
+
+000A0575:68->FF
+000A0576:42->FF
+000A0577:00->07
