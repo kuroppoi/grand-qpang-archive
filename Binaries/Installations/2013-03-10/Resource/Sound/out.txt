@@ -1,0 +1,135 @@
+charge.wav		//스킬카드 사용할때 타겟이 락 됨, 스킬포인트 차지 알림
+combo.wav		//연속으로 상대를 죽였을때
+C_dead00.wav			//고양이 죽었을때 1
+C_dead01.wav				//고양이 죽었을때 2
+C_dead02.wav		//고양이 죽었을때 3
+C_hdead00.wav		//고양이가 헤드샷으로 죽었을때1
+C_hdead01.wav		//고양이가 헤드샷으로 죽었을때2
+C_hdead02.wav		//고양이가 헤드샷으로 죽었을때3
+C_head00.wav		//고양이가 헤드샷으로 상대를 죽일때1
+C_head01.wav		//고양이가 헤드샷으로 상대를 죽일때2
+C_head02.wav		//고양이가 헤드샷으로 상대를 죽일때3
+drop_death.wav		//vip모드에서 vip를 죽였을때
+D_dead00.wav		//닥터가 죽었을때1(외계인)
+D_dead01.wav		//닥터가 죽었을때2
+D_hdead00.wav		//닥터가 헤드샷으로 죽었을때1
+D_hdead01.wav		//닥터가 헤드샷으로 죽었을때2
+D_head00.wav		//닥터가 헤드샷으로 상대를 죽였을때1
+D_head01.wav		//닥터가 헤드샷으로 상대를 죽였을때1
+empty_gun.wav		//총알이 없을때 사격을 요청한경우
+essense_get.wav		//에센스모드에서 에센스 획득
+essense_reset.wav	//에센스모드에서 에센스 리스폰
+essense_throw.wav	//에센스를 바닥에 던짐
+Gainbonus.wav		//게임 결과 화면에서 보너스 획득
+hcannon_zoom.wav	//스나이퍼 캐논 줌인, 적이 타겟이 락되었을때
+headshot.wav		//헤드샷 맞았을때
+h_antig_normal.wav	//골드 캐논, 베이스볼 캐논이 벽에 맞았을때
+h_bang_normal.wav	//다이너마이트, 골드다이너마이트등 곡사형태의 투척 무기가 폭팔할때 소리
+h_beam_normal.wav	//빔 형태의 무기가 벽에 맞았을때
+h_bow_normal.wav	//보우건이 벽에 맞았을때
+h_bullet_man.wav	//킬링필드, 킬링필드 골드, pc001 등의 건류 무기가 유저를 타격했을때 소리
+h_bullet_metal.wav	//
+h_bullet_normal1.wav
+h_bullet_normal2.wav
+h_bullet_normal3.wav
+h_bullet_paper.wav	//보우건이 아바타에 맞았을때
+h_cannon_man.wav	//
+h_cannon_normal.wav
+h_chain_normal.wav	//체인라이트닝 무기가 아바타/벽에 맞았을때
+h_dest_normal.wav	//디스트로이어(스나이퍼무기)가 벽/아바타에 맞았을때
+h_dspray_normal.wav	//드래곤스프레이 무기가 벽/아바타에 맞았을때
+h_hcannon_man.wav	//핸드캐논(스나이퍼형무기)가 아바타에 맞았을때
+h_hcannon_normal.wav	//핸드캐논이 벽에 맞았을떄, 멀티 로켓이 벽에 맞았을때
+h_mace_man.wav		//둔기형 밀리 무기 아바타에 맞는 소리 //휘두르는 소리
+h_mace_metal.wav
+h_mace_normal.wav	//둔기형 밀리 무기 벽에 맞는 소리
+h_machine_man.wav	//머신건(벙커맵에 박혀 있는 기관총)이 아바타에 맞는 소리
+h_machine_normal.wav	//머신건(벙커맵에 박혀 있는 기관총)이 벽에 맞는 소리
+h_mega_man.wav		//메가 빔(빔형 런처무기)의 아바타에 맞는 소리
+h_mega_normal.wav	//메가 빔(빔형 런처무기)의 아바타에 맞는 소리
+h_mrocket_man.wav
+h_mrocket_normal.wav
+h_pari_man.wav		//칠판 지우개, 계란, 야구공등 직선으로 던져지는 투척무기가 아바타에 맞았을때 소리, 
+h_pl15_man.wav		//pl15라는 물총형 무기의 아바타/다른 플레이어가 발사한 총이 벽에 맞는 소리
+h_pl15_normal.wav	//pl15라는 물총형 무기의 벽에 맞는 소리
+h_Pl33_man.wav		//pl33
+h_Pl33_normal.wav	//pl33
+h_ps01_man.wav		//ps01
+h_ps01_normal.wav	//ps01
+h_storm_man.wav		//스톰(전자총)무기의 아바타 / 다른 플레이가 발사한 총이 벽에 맞는 소리
+h_storm_normal.wav	//내가 쏜 스톰이 벽에 맞는 소리
+h_sword_man.wav		//칼 형태의 밀리 무기를 휘두르고 아바타가 맞았을때 소리
+h_sword_metal.wav
+h_sword_normal.wav	//칼형태의 밀리 무기가 벽에 맞는 소리
+h_table_normal.wav	//머리 위에서 던지는 탁자 / 초콜렛 형태의 투척무기가 벽에 맞는 소리
+h_throw_noraml.wav
+Itemget.wav		//게임상에서 스킬카드등의 아이템을 획득하였을 때 소리
+landing.wav		//점프 후 착지 할때 사운드
+magazin_insert.wav
+multikill.wav		//한번의 사격으로 여러명을 죽였을때 이펙트 사운드
+M_dead00.wav		//인간(남)이 죽었을때 1
+M_dead01.wav		//인간(남)이 죽었을때 2
+M_dead02.wav		//인간(남)이 죽었을때 3	
+
+M_hdead00.wav		//인간(남)이 헤드샷으로 죽었을때1
+M_hdead01.wav		//인간(남)이 헤드샷으로 죽었을때2
+M_hdead02.wav		//인간(남)이 헤드샷으로 죽었을때3
+M_head00.wav		//인간(남)이 헤드샷으로 상대를 죽일때1
+M_head01.wav		//인간(남)이 헤드샷으로 상대를 죽일때2
+M_head02.wav		//인간(남)이 헤드샷으로 상대를 죽일때3
+passiveskill.wav	//패시브 스킬(자신에게 쓰는스킬)을 사용하였을때
+P_dead00.wav		//프로브가 죽었을때1(외계인)
+P_dead01.wav		//프로브가 죽었을때2(외계인)
+P_dead02.wav		//프로브가 죽었을때3(외계인)
+P_hdead00.wav		//프로브가 헤드샷으로 죽었을때1
+P_hdead01.wav		//프로브가 헤드샷으로 죽었을때2
+P_head00.wav		//프로브가 헤드샷으로 상대를 죽일때1
+P_head01.wav		//프로브가 헤드샷으로 상대를 죽일때1
+Quest_End.wav		//퀘스트를 완료 하였을때, 게임중 이벤트가 발생할때
+Quest_Scroll.wav	//게임중 퀘스트가 발생하였을때
+respawn.wav		//리스폰  / 게임중 포탈에 들어 갔다 나올때,
+round_lose.wav		//게임 패배
+round_win.wav		//게임 승리
+smallicon2.wav		//모달 형이 아닌 메시지 박스 눌렀을떄
+bigicon1.wav		//메시지 박스 버튼 눌렀을때
+
+action_use.wav		//상대방에게 스킬 시전
+bigexplosive.wav	//구형태의 무기 발사후 폭발 사운드
+
+D_dead00.wav		//닥터가 죽었을때1(외계인)
+D_dead01.wav		//닥터가 죽었을때2
+D_hdead00.wav		//닥터가 헤드샷으로 죽었을때1
+D_hdead01.wav		//닥터가 헤드샷으로 죽었을때2
+D_head00.wav		//닥터가 헤드샷으로 상대를 죽였을때1
+D_head01.wav		//닥터가 헤드샷으로 상대를 죽였을때1
+
+
+B_dead00.wav		//곰이 죽었을때1
+B_dead01.wav		//곰이 죽었을때2
+B_hdead00.wav		//곰이 헤드샷으로 죽었을때1
+B_hdead01.wav		//곰이 헤드샷으로 죽었을때2
+B_hdead02.wav		//곰이 헤드샷으로 죽었을때2
+B_head00.wav		//곰이 헤드샷으로 상대를 죽였을떄1
+B_head01.wav		//곰이 헤드샷으로 상대를 죽였을떄2
+B_head02.wav		//곰이 헤드샷으로 상대를 죽였을떄3
+s_bamboo.wav		//죽도를 휘두를때 / 벽에 맞았을때 소리
+Timelimit.wav		//리스폰 카운트 사운드
+
+M_hdead00.wav		//인간(남)이 헤드샷으로 죽었을때1
+M_hdead01.wav		//인간(남)이 헤드샷으로 죽었을때2
+M_hdead02.wav		//인간(남)이 헤드샷으로 죽었을때3
+M_head00.wav		//인간(남)이 헤드샷으로 상대를 죽일때1
+M_head01.wav		//인간(남)이 헤드샷으로 상대를 죽일때2
+M_head02.wav		//인간(남)이 헤드샷으로 상대를 죽일때3
+
+W_dead00.wav		//인간(여자) 죽었을때1
+W_dead01.wav		//인간(여자) 죽었을때2
+W_dead02.wav		//인간(여자) 죽었을때3
+W_hdead00.wav		//인간(여자)이 헤드샷으로 죽었을때1
+W_hdead01.wav		//인간(여자)이 헤드샷으로 죽었을때2
+W_hdead02.wav		//인간(여자)이 헤드샷으로 죽었을때3
+W_head00.wav		//인간(여자)이 헤드샷으로 상대를 죽었을때1
+W_head01.wav		//인간(여자)이 헤드샷으로 상대를 죽었을때2
+W_head02.wav		//인간(여자)이 헤드샷으로 상대를 죽었을때3
+bat_return.wav		//배터리만 변신시 사운드(다른 플레이어 / 내가 원래데로 돌아 올떄)
+bat_use.wav		//배터리맨 변신 사운드(나)
